@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm harshil lakhani</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img />
-
-<img align="center" src='https://cdn.dribbble.com/users/14374/screenshots/3147608/media/81669459ec186752d08de4d29a83e309.gif' />
-<img align="center" src='tps://cdn.dribbble.com/users/14374/screenshots/3147608/media/81669459ec186752d08de4d29a83e309.gif' />
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on **NodeJS** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on **NodeJS** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning **data structures and algorithms (DSA)**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Ask me about **Web Backend Development**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **hlakhani9705@gmail.com**<br>
