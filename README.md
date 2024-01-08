@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm harshil lakhani</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer from India &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="28px"></h3>
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on **NodeJS** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning **data structures and algorithms (DSA)**. <br>
