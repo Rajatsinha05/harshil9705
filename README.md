@@ -34,9 +34,11 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil9705&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="harshil9705" width="32.5%" />
 
-
+</div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
+<div align="center" >
+  
 **Code Cycle**<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
@@ -48,4 +50,15 @@
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
+<div align="center" >
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;" >
 </div>
+</div>
+ 
+<br/>
+
+
+
+
+
+
